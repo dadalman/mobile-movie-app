@@ -48,3 +48,11 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+## Installation Setup Guides
+1. React Native
+2. Expo
+3. Nativewind
+
+Youtube Tutorial Link: https://www.youtube.com/watch?v=f8Z9JyB2EIE
